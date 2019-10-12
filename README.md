@@ -40,6 +40,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 Changes are grouped by added, fixed or changed feature.
 
+### [3.0.1] - 2019-10-12
+- Improve code quality, fix PHPStan errors.
+
 ### [3.0.0] - 2019-09-03
 - First version separated from Webvaloa main repository as a package. 
 

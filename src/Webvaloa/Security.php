@@ -103,7 +103,7 @@ class Security
     /**
      * Get security token.
      *
-     * @return type
+     * @return string
      */
     public static function getToken()
     {
